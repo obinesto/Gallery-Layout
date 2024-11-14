@@ -1,3 +1,2 @@
 # Gallery Layout
- A  one-page site which makes use of css3 pseudo classes, grid and positioning properties to create a beautiful layout
-link: https://obinesto.github.io/Gallery-Layout/
+ A template site which makes use of css3 pseudo classes, grid and positioning properties to create a beautiful layout
